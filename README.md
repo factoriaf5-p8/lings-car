@@ -1,21 +1,19 @@
-# Parlacat
-Desde el Instituto Ramon Llull nos ha llegado una petición de rehacer la página web de [parla.cat](https://www.parla.cat/pres_catalaenlinia/AppPHP/login/index.php). Actualmente esta web se encuentra con un diseño desfasado a las necesidades del usuario y también de los responsables de gestión
-
-Es por ello, que el cliente nos aporta la página actual (a la cual deberemos registrarnos) para poder ver todo el contenido al completo. Por el momento, nos pide únicamente con el rediseño.
+# Lings Cars
+El señor Lings por fin se ha decidido a actualizar su [marketplace](https://www.lingscars.com/) y os ha contratado para que le diseñéis cómo será su web del 2024.
 
 ## Requisitos
 * El proyecto será realizado en grupos de 3 personas
-* El proyecto DEBE realizarse con las metodologías agile y marco de trabajo Scrum
-* El proyecto será realizado con Figma
+* El equipo debe trabajar de forma Agile. Deberéis investigar sobre metodologías Agile y elegid la que mejor se adapte a vuestro proyecto.
+* Se utilizará la herramienta de Figma para hacer el prototipado
 * DEBE incluir una carta gráfica (paleta de colores, tipografía,tamaños empleados…)
-* DEBE estar dividido en skech, mockup y prototipo dentro de figma
+* DEBE estar dividido en sketch, mockup y prototipo dentro de figma
 * Se DEBE realizar un benchmark para revisar a otros competidores o ideas de otras webs
 * Se DEBE usar la psicología del color
-* DEBE estar realizado con atomic design
+* Se DEBE aplicar atomic design en el diseño
 
 ## ¿Qué competencia se evaluará?
 
-Nivel 1 de Maquetar una aplicación web
+Nivel 1 de la competencia "Maquetar una aplicación web"
 
 ## ¿Qué implica este nivel?
 
@@ -24,9 +22,9 @@ Partiendo de una herramienta de maquetación designada, reproducir una maquetaci
 
 ## Recursos
 * [Psicologia del color](https://static.wixstatic.com/media/23a47e_6882e9fa04a643798c8bd8824d0564d2~mv2.png/v1/fill/w_667,h_1000,al_c,q_90,usm_0.66_1.00_0.01/23a47e_6882e9fa04a643798c8bd8824d0564d2~mv2.png)
-* [Ejemplo de web 1](https://moltperparlar.cat/)
+* [Algunos diseños de ejemplo](https://dribbble.com/tags/car-rental-website)
 * [Figma](https://www.figma.com/)
-* [Página a refactorizar](https://www.parla.cat/pres_catalaenlinia/AppPHP/login/index.php)
+* [Página a refactorizar](https://www.lingscars.com/)
 
 ## Entregables
 * Readme donde se incluya una breve descripción del proyecto (Descripción), una parte se muestre un par de pantallas (Demo) y debajo de este apartado un link que derive al usuario poder ver por completo el diseño
@@ -34,4 +32,6 @@ Partiendo de una herramienta de maquetación designada, reproducir una maquetaci
 
 ## Modalidades de evaluación
 
-En la exposición se realizará una presentación (puedes usar powerpoint, canva, etc) y realizar una demo del trabajo realizado.
+En la exposición se realizará una presentación (puedes usar powerpoint, canva, etc) y realizar una demo del trabajo realizado. El tiempo máximo de presentación será de 10'.
+
+
