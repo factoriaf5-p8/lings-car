@@ -27,7 +27,10 @@ Partiendo de una herramienta de maquetación designada, reproducir una maquetaci
 * [Página a refactorizar](https://www.lingscars.com/)
 
 ## Entregables
-* Readme donde se incluya una breve descripción del proyecto (Descripción), una parte se muestre un par de pantallas (Demo) y debajo de este apartado un link que derive al usuario poder ver por completo el diseño
+* Modificar este fichero readme.md para incluir:
+  - una breve descripción del proyecto (Descripción),
+  - una parte donde se muestre un par de pantallas (Demo) y debajo de éste,
+  - un apartado con un link que derive al usuario poder ver el diseño completo.
 * La entrega será el martes 31 de octubre.
 
 ## Modalidades de evaluación
